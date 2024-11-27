@@ -1,6 +1,6 @@
 ---
 hub: "cdcepi/FluSight-forecast-hub/"
-title: "Example Hub Dashboard Website"
+title: "No Forecast Example"
 pages:
   - "about.md"
 
