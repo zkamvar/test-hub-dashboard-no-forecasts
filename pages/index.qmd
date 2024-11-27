@@ -9,7 +9,7 @@ Authors can use $\LaTeX$ to write equations and even put in callouts:
 
 :::{.callout-note}
 
-No forecasts here! Turn back :see_no_evil: :ghost:
+No forecasts here! Turn back :see_no_evil: :ghost: :smiley:
 
 :::
 
