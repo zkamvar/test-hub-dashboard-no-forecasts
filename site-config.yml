@@ -3,4 +3,8 @@ hub: "cdcepi/FluSight-forecast-hub/"
 title: "No Forecast Example"
 pages:
   - "about.md"
-
+html:
+  theme: 
+    light: "litera"
+    dark: "quartz"
+  css: null
